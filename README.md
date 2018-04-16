@@ -1,3 +1,3 @@
 # InsTaxe
 
-Instagram Downloader for images and videos from all kinds of public instagram feeds.
+Instagram Downloader for all kinds of public instagram feeds.
